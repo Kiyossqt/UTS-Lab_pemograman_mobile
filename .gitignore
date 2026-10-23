@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.vscode/
+
+# Native builds
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+
+# Logs & temp
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS
+.DS_Store
+Thumbs.db
